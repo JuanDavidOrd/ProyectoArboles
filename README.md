@@ -14,7 +14,7 @@ inserciones y visualización.
 
 ## Requisitos
 - Python 3.10+
-- Librerías: `pygame`, `matplotlib`, `networkx`
+- Librerías: `pygame`
 
 ## Cómo ejecutar
 ```bash
