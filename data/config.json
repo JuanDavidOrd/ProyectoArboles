@@ -1,0 +1,50 @@
+{
+    "config": {
+        "distancia_total": 800,
+        "velocidad": 5,
+        "salto": 3,
+        "color": "azul"
+    },
+    "obstaculos": [
+        {
+            "x": 100,
+            "y": 1,
+            "tipo": "piedra",
+            "dano": 10,
+            "ancho": 20,
+            "alto": 1
+        },
+        {
+            "x": 200,
+            "y": 0,
+            "tipo": "hueco",
+            "dano": 15,
+            "ancho": 30,
+            "alto": 1
+        },
+        {
+            "x": 350,
+            "y": 2,
+            "tipo": "cono",
+            "dano": 5,
+            "ancho": 15,
+            "alto": 1
+        },
+        {
+            "x": 650,
+            "y": 0,
+            "tipo": "arbusto",
+            "dano": 3,
+            "ancho": 20,
+            "alto": 1
+        },
+        {
+            "x": 122,
+            "y": 1,
+            "tipo": "arbusto",
+            "dano": 30,
+            "ancho": 20,
+            "alto": 1
+        }
+    ]
+}
