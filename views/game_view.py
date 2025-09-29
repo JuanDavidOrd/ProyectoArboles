@@ -35,7 +35,7 @@ class GameView:
             "hueco": self._cargar("assets/hole.png", (55, 35), (60, 60, 60)),
             "cono": self._cargar("assets/cone.png", (40, 55), (255, 165, 0)),
             "arbusto": self._cargar("assets/bush.png", (50, 50), (34, 139, 34)),
-            "default": self._cargar(None, (50, 50), (200, 50, 50)),
+            "default": self._cargar("assets/default.png", (50, 50), (200, 50, 50)),
         }
 
 
